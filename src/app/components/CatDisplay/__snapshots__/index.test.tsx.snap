@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CatDisplay renders correctly 1`] = `
+<div
+  className="catDisplayDiv"
+>
+  <img
+    alt="Image of Cat with ID: 1ttg"
+    height={100}
+    src="https://static.quantcast.com/catrancher/1ttg.png"
+    width={100}
+  />
+  <div
+    className="mock-typography subtitle1"
+  >
+    1TTG
+  </div>
+</div>
+`;

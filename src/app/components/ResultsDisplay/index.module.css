@@ -1,0 +1,11 @@
+.resultsDisplayPaper {
+  height: 100%;
+  padding: 25px;
+  border-radius: 25px;
+}
+
+.resultsDisplayGridItem {
+  border: 1px solid black;
+  height: 137px;
+  display: flex;
+}

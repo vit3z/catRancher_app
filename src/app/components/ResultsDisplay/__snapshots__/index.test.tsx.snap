@@ -1,0 +1,197 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ResultsDisplay renders correctly when a clowder is invalid 1`] = `
+<div
+  className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 resultsDisplayPaper css-1ps6pg7-MuiPaper-root"
+>
+  <h6
+    className="MuiTypography-root MuiTypography-h6 css-2ulfj5-MuiTypography-root"
+  >
+    Clowders found
+  </h6>
+  <div
+    className="MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 resultsDisplayGridItem css-r0vdtd-MuiGrid-root"
+    />
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 resultsDisplayGridItem css-r0vdtd-MuiGrid-root"
+    />
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 resultsDisplayGridItem css-r0vdtd-MuiGrid-root"
+    />
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 resultsDisplayGridItem css-r0vdtd-MuiGrid-root"
+    />
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 resultsDisplayGridItem css-r0vdtd-MuiGrid-root"
+    />
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 resultsDisplayGridItem css-r0vdtd-MuiGrid-root"
+    />
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 resultsDisplayGridItem css-r0vdtd-MuiGrid-root"
+    />
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 resultsDisplayGridItem css-r0vdtd-MuiGrid-root"
+    />
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 resultsDisplayGridItem css-r0vdtd-MuiGrid-root"
+    />
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 resultsDisplayGridItem css-r0vdtd-MuiGrid-root"
+    />
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 resultsDisplayGridItem css-r0vdtd-MuiGrid-root"
+    />
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 resultsDisplayGridItem css-r0vdtd-MuiGrid-root"
+    />
+  </div>
+  <div>
+    <h6
+      className="MuiTypography-root MuiTypography-subtitle1 css-2vofx8-MuiTypography-root"
+    >
+      The cats will NOT get along! Make sure the following properties are not in a 2:1 ratio:
+    </h6>
+    <h6
+      className="MuiTypography-root MuiTypography-subtitle1 css-bmwhns-MuiTypography-root"
+    >
+      - 
+      EYES
+    </h6>
+    <h6
+      className="MuiTypography-root MuiTypography-subtitle1 css-bmwhns-MuiTypography-root"
+    >
+      - 
+      SHAPE
+    </h6>
+  </div>
+</div>
+`;
+
+exports[`ResultsDisplay renders correctly when we have a list of valid cats in a clowder 1`] = `
+<div
+  className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 resultsDisplayPaper css-1ps6pg7-MuiPaper-root"
+>
+  <h6
+    className="MuiTypography-root MuiTypography-h6 css-2ulfj5-MuiTypography-root"
+  >
+    Clowders found
+  </h6>
+  <div
+    className="MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 resultsDisplayGridItem css-r0vdtd-MuiGrid-root"
+    >
+      <img
+        alt="Image of Cat with ID: 1ttg"
+        height={137.5}
+        src="https://static.quantcast.com/catrancher/1ttg.png"
+        width={90}
+      />
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 resultsDisplayGridItem css-r0vdtd-MuiGrid-root"
+    >
+      <img
+        alt="Image of Cat with ID: 2wsb"
+        height={100}
+        src="https://static.quantcast.com/catrancher/2wsb.png"
+        width={60}
+      />
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 resultsDisplayGridItem css-r0vdtd-MuiGrid-root"
+    >
+      <img
+        alt="Image of Cat with ID: 3brr"
+        height={90}
+        src="https://static.quantcast.com/catrancher/3brr.png"
+        width={90}
+      />
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 resultsDisplayGridItem css-r0vdtd-MuiGrid-root"
+    />
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 resultsDisplayGridItem css-r0vdtd-MuiGrid-root"
+    />
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 resultsDisplayGridItem css-r0vdtd-MuiGrid-root"
+    />
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 resultsDisplayGridItem css-r0vdtd-MuiGrid-root"
+    />
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 resultsDisplayGridItem css-r0vdtd-MuiGrid-root"
+    />
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 resultsDisplayGridItem css-r0vdtd-MuiGrid-root"
+    />
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 resultsDisplayGridItem css-r0vdtd-MuiGrid-root"
+    />
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 resultsDisplayGridItem css-r0vdtd-MuiGrid-root"
+    />
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 resultsDisplayGridItem css-r0vdtd-MuiGrid-root"
+    />
+  </div>
+</div>
+`;
+
+exports[`ResultsDisplay renders correctly with empty clowder 1`] = `
+<div
+  className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 resultsDisplayPaper css-1ps6pg7-MuiPaper-root"
+>
+  <h6
+    className="MuiTypography-root MuiTypography-h6 css-2ulfj5-MuiTypography-root"
+  >
+    Clowders found
+  </h6>
+  <div
+    className="MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 resultsDisplayGridItem css-r0vdtd-MuiGrid-root"
+    />
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 resultsDisplayGridItem css-r0vdtd-MuiGrid-root"
+    />
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 resultsDisplayGridItem css-r0vdtd-MuiGrid-root"
+    />
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 resultsDisplayGridItem css-r0vdtd-MuiGrid-root"
+    />
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 resultsDisplayGridItem css-r0vdtd-MuiGrid-root"
+    />
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 resultsDisplayGridItem css-r0vdtd-MuiGrid-root"
+    />
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 resultsDisplayGridItem css-r0vdtd-MuiGrid-root"
+    />
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 resultsDisplayGridItem css-r0vdtd-MuiGrid-root"
+    />
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 resultsDisplayGridItem css-r0vdtd-MuiGrid-root"
+    />
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 resultsDisplayGridItem css-r0vdtd-MuiGrid-root"
+    />
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 resultsDisplayGridItem css-r0vdtd-MuiGrid-root"
+    />
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 resultsDisplayGridItem css-r0vdtd-MuiGrid-root"
+    />
+  </div>
+</div>
+`;

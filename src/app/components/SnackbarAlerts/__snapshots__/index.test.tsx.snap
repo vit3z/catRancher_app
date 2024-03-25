@@ -1,0 +1,129 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SnackbarAlerts renders correctly with all types of alerts closed 1`] = `
+[
+  <div
+    className="mock-snackbar closed"
+  >
+    <div
+      className="mock-alert error filled snackBarAlert"
+    >
+      An error has occured: 
+    </div>
+  </div>,
+  <div
+    className="mock-snackbar closed"
+  >
+    <div
+      className="mock-alert warning filled snackBarAlert"
+    >
+      You already have that setup of cats in a Clowder, please switch it up!
+    </div>
+  </div>,
+  <div
+    className="mock-snackbar closed"
+  >
+    <div
+      className="mock-alert success filled snackBarAlert"
+    >
+      You've successfully created a Clowder!
+    </div>
+  </div>,
+]
+`;
+
+exports[`SnackbarAlerts renders correctly with error 1`] = `
+[
+  <div
+    className="mock-snackbar open"
+  >
+    <div
+      className="mock-alert error filled snackBarAlert"
+    >
+      An error has occured: Sample error message
+    </div>
+  </div>,
+  <div
+    className="mock-snackbar closed"
+  >
+    <div
+      className="mock-alert warning filled snackBarAlert"
+    >
+      You already have that setup of cats in a Clowder, please switch it up!
+    </div>
+  </div>,
+  <div
+    className="mock-snackbar closed"
+  >
+    <div
+      className="mock-alert success filled snackBarAlert"
+    >
+      You've successfully created a Clowder!
+    </div>
+  </div>,
+]
+`;
+
+exports[`SnackbarAlerts renders correctly with success 1`] = `
+[
+  <div
+    className="mock-snackbar closed"
+  >
+    <div
+      className="mock-alert error filled snackBarAlert"
+    >
+      An error has occured: 
+    </div>
+  </div>,
+  <div
+    className="mock-snackbar closed"
+  >
+    <div
+      className="mock-alert warning filled snackBarAlert"
+    >
+      You already have that setup of cats in a Clowder, please switch it up!
+    </div>
+  </div>,
+  <div
+    className="mock-snackbar open"
+  >
+    <div
+      className="mock-alert success filled snackBarAlert"
+    >
+      You've successfully created a Clowder!
+    </div>
+  </div>,
+]
+`;
+
+exports[`SnackbarAlerts renders correctly with warning 1`] = `
+[
+  <div
+    className="mock-snackbar closed"
+  >
+    <div
+      className="mock-alert error filled snackBarAlert"
+    >
+      An error has occured: 
+    </div>
+  </div>,
+  <div
+    className="mock-snackbar open"
+  >
+    <div
+      className="mock-alert warning filled snackBarAlert"
+    >
+      You already have that setup of cats in a Clowder, please switch it up!
+    </div>
+  </div>,
+  <div
+    className="mock-snackbar closed"
+  >
+    <div
+      className="mock-alert success filled snackBarAlert"
+    >
+      You've successfully created a Clowder!
+    </div>
+  </div>,
+]
+`;

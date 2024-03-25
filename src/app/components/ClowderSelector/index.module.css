@@ -1,0 +1,18 @@
+.catDisplayDivWrapper {
+  margin-top: 35px;
+  padding: 0px 150px;
+}
+
+.catDisplayGridItem {
+  display: flex;
+  min-height: 307px;
+  max-height: 307px;
+  border-radius: 25px;
+  border: 1px solid #6a6a6a82;
+  cursor: pointer;
+}
+
+.catDisplayLoadingSpinner {
+  margin-top: 30vh;
+  color: green !important;
+}
